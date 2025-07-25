@@ -19,6 +19,12 @@ O projeto pode ser executado em um ambiente local (com Python instalado na sua m
 
 #### **1. Ambiente Local**
 
+**Fazendo o download dos arquivos**
+Crie/escolha uma pasta para salvar os arquivos do projeto, abra o terminal na sua pasta e digite o comando abaixo
+```bash
+git clone https://github.com/CarlosEduardo254/Trabalho_Final_Grafos.git
+```
+
 **Instalação:**
 Para executar o projeto localmente, é necessário ter o **Python 3**, o seu gerenciador de pacotes **`pip`** e o Jupyter Notebook (ou outra ferramenta compatível) instalados. As bibliotecas podem ser instaladas via `pip`.
 
