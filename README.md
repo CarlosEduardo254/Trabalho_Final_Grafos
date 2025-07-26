@@ -46,6 +46,14 @@ pip install networkx matplotlib jupyter
     ```
 5.  Execute todas as células do notebook.
 
+
+
+> Possível problema: Se, ao tentar rodar o código, é retornado ``No module named 'scipy'``, basta rodar o comando:
+```bash
+pip install scipy
+```
+
+
 #### **2. Ambiente Online (Google Colab)**
 
 **Instalação:**
@@ -70,3 +78,6 @@ O Google Colab já vem com a maioria das bibliotecas pré-instaladas. Caso algum
 ---
 
 A saída para ambos os ambientes incluirá os passos do algoritmo, o caminho hamiltoniano aproximado, o custo total da solução e a visualização gráfica do resultado.
+
+
+⚠️ Importante: Para o correto funcionamento, utilize apenas arquivos com a mesma formatação dos exemplos fornecidos pelo professor. Arquivos com formato diferente não serão aceitos ou podem gerar erros.
